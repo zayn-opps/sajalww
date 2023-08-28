@@ -1,0 +1,21 @@
+.p a{
+    border: 2px solid ;
+    background-color: rgb(228, 150, 54); 
+    width: 150px;
+    text-align: center;
+    margin-left: 500px;
+    text-decoration: none;
+}  
+.i{
+    
+    
+width: 400px;
+height: 300px;
+margin-top: 200px;
+}
+*{
+
+}
+.l{
+    display: flex;
+}
